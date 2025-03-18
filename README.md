@@ -1,2 +1,2 @@
-# NLP project for Aspect based analysis of Nepali offensive texts using POS Tagging and Word Embedding with Machine Learning Techniques
+# NLP project for Aspect based analysis of Nepali offensive texts using POS Tagging and Word Embedding using Machine Learning Techniques
 # updating soon ...
